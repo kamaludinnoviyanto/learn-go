@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	dayBorn := time.Sunday
+	dayBorn := time.Thursday
 
 	switch dayBorn {
 	case time.Monday:
