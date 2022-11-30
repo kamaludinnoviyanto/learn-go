@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var rows, temp = 7, 1
+	var rows, temp = 10, 1
 
 	for i := 0; i < rows; i++ {
 		for j := 1; j <= rows-i; j++ {
